@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Restrictions on a page(failed)">
+    <classes>
+      <class name="Testcases.ConfluenceTest">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- Testcases.ConfluenceTest -->
+      <class name="Testcases.Baseclass">
+        <methods>
+          <include name="driverclose"/>
+          <include name="startsession"/>
+        </methods>
+      </class> <!-- Testcases.Baseclass -->
+    </classes>
+  </test> <!-- Restrictions on a page(failed) -->
+</suite> <!-- Failed suite [Suite] -->

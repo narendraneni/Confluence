@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/selenium-chrome-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/jars/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/training/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/training/selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
